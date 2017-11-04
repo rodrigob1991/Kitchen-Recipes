@@ -1,0 +1,20 @@
+﻿cafe,chocolate,
+Esta receta tiene cafe y chocolate.
+levadura,
+Esta receta tiene levadura.
+levadura,harina,
+Esta receta tiene levadura y harina.
+levadura,harina,cafe,
+Esta receta tiene levadura, harina y café.
+levadura,cafe,
+Esta receta tiene levadura y café
+pasta,choclo,
+Esta receta tiene pasta y choclo.
+pasta,choclo,queso,
+Esta receta tiene pasta, choclo y queso.
+queso,harina,
+Esta receta tiene queso y harina.
+manteca,sal,
+Esta recera tiene manteca y sal.
+manteca,azucar,
+Esta recera tiene manteca y azucar.
